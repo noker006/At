@@ -1,0 +1,7 @@
+Supercandy 12 12 12,5PercentageCocoa: 12Filling: chocolate
+Ubercandy 14 14 14,3PercentageCocoa: 14Filling: chocolate
+UberTRWAffles 5 5 5,4Taste: YUMGlaze: True
+MEgaFruit 9 9 9,3Vitamin C: TrueVitamin A: False
+NERTWAffles 5 5 17,4Taste: YUMGlaze: True
+Total weight: 45
+Cost: 0,5479

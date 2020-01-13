@@ -1,0 +1,5 @@
+﻿C Supercandy 12 12 12,5 12 chocolate
+C Ubercandy 14 14 14,3 14 chocolate
+W UberTRWAffles 5 5 5,4 YUM true
+F MEgaFruit 9 9 9,3 true false
+W NERTWAffles 5 5 17,4 YUM true
